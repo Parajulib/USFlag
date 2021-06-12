@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+/* Add your CSS here */
+body {
+  background-color: rgb(143, 172, 231);
+  display: flex;
+}
+td {
+  width: 20px;
+  height: 20px;
+}
+.color0 {
+  background-color: transparent;
+}
+.color1 {
+  background-color: #ffffff;
+}
+.color2 {
+  background-color: #0a045e;
+}
+.color3 {
+  background-color: #960707;
+}
